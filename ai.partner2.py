@@ -77,7 +77,7 @@ def delete_session(session_name):
 
 st.title("AI智能伴侣")
 
-st.logo("resource/111.jpeg")
+#st.logo("resource/111.jpeg")
 
 
 #系统提示词
